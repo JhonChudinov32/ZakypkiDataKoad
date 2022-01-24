@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZakypkiDataKoad", "ZakypkiDataKoad\ZakypkiDataKoad.csproj", "{DD4F98AD-2359-421F-9C1D-AD53AAA2638A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4F98AD-2359-421F-9C1D-AD53AAA2638A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4F98AD-2359-421F-9C1D-AD53AAA2638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4F98AD-2359-421F-9C1D-AD53AAA2638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4F98AD-2359-421F-9C1D-AD53AAA2638A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0E8492-EEDC-45AB-8D61-7803EB433ECD}
+	EndGlobalSection
+EndGlobal
